@@ -1,0 +1,20 @@
+{
+  "name": "devops-303",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "boom": "^4.2.0",
+    "hapi": "^16.1.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "freeport": "^1.0.5",
+    "mocha": "^3.2.0"
+  }
+}
